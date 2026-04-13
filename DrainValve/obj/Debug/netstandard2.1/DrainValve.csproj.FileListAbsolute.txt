@@ -1,0 +1,11 @@
+D:\my work\DrainValve\bin\Debug\netstandard2.1\DrainValve.deps.json
+D:\my work\DrainValve\bin\Debug\netstandard2.1\DrainValve.dll
+D:\my work\DrainValve\bin\Debug\netstandard2.1\DrainValve.pdb
+D:\my work\DrainValve\obj\Debug\netstandard2.1\DrainValve.csproj.AssemblyReference.cache
+D:\my work\DrainValve\obj\Debug\netstandard2.1\DrainValve.GeneratedMSBuildEditorConfig.editorconfig
+D:\my work\DrainValve\obj\Debug\netstandard2.1\DrainValve.csproj.CoreCompileInputs.cache
+D:\my work\DrainValve\obj\Debug\netstandard2.1\DrainValve.dll
+D:\my work\DrainValve\obj\Debug\netstandard2.1\DrainValve.pdb
+D:\my work\DrainValve\bin\Debug\netstandard2.1\PLib.dll
+D:\my work\DrainValve\bin\Debug\netstandard2.1\PLib.xml
+D:\my work\DrainValve\obj\Debug\netstandard2.1\DrainValve.csproj.Up2Date

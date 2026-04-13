@@ -1,0 +1,40 @@
+{
+  "runtimeTarget": {
+    "name": ".NETStandard,Version=v2.1/",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETStandard,Version=v2.1": {},
+    ".NETStandard,Version=v2.1/": {
+      "DrainValve/1.0.0": {
+        "dependencies": {
+          "PLib": "4.24.0.0"
+        },
+        "runtime": {
+          "DrainValve.dll": {}
+        }
+      },
+      "PLib/4.24.0.0": {
+        "runtime": {
+          "PLib.dll": {
+            "assemblyVersion": "4.24.0.0",
+            "fileVersion": "4.24.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DrainValve/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PLib/4.24.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
