@@ -15,10 +15,6 @@ Notes:
 
 Known Issues:
 • Causes approximately 3% performance loss.
-
-Credits:
-• Config options made with PLib by PeterHan, available under MIT License.
-
 ---
 中文版：
 
@@ -35,6 +31,3 @@ Credits:
 
 已知问题：
 • 会造成约 3% 的性能损失。
-
-致谢：
-• 配置界面基于 PeterHan 的 PLib 实现（MIT License）。
